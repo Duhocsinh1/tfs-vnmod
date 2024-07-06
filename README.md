@@ -27,7 +27,7 @@ Các bạn vui lòng không upload lại hoặc tải ở các trang không uy t
 1. Tải về với link bên trên
 2. Chạy file .apk sau khi đã tải xong
 3. Nếu Google Play Protect báo app không tương thích hãy ấn vào Thêm chi tiết và Tiếp tục cài đặt
-4. App sẽ yêu cầu quyền Xuaart hiện trên cùng thì các bạn đồng ý nhé
+4. App sẽ yêu cầu quyền Xuất hiện trên cùng thì các bạn đồng ý nhé
 5. Các banh vào menu MODYOLO và bật Money Injection để bung tiền
 6. Tất cả các livery đều nằm trong máy bay RL72
 
