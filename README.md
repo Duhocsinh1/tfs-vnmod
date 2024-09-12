@@ -1,16 +1,17 @@
-<p align="center"><img src="https://i.postimg.cc/0r1vf6tC/TURBOPROP-MOD-VIETNAM-logo.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://i.postimg.cc/0r1vf6tC/TURBOPROP-MOD-VIETNAM-logo.png" alt="TFS VN Logo"></p>
 
 <h1 align="center">TFS MOD VN</h1>
 
-<p align="center">Bản mod được làm lậu. Không liên quan đến AX Gamesoft (Alex Petre)</p>
+<p align="center">SWITCH TO ENGLISH</p>
 
-<p align="center">Pirated mod. Not related to AX Gamesoft (Alex Petre)</p>
+<p align="center">Game gốc bởi Alex Petre (AX Gamesoft)</p>
 
-## Giới thiệu
+<p align="center"><img src="https://i.postimg.cc/L5vxN531/gioithieu.png" alt="Gioi thieu"></p>
 
 Chào các bạn, mình là Thành Đào đây, mình cùng với bạn YouTuber Nhân Đây cùng nhau design, test và tạo nên TFS Mod VN với niềm mong muốn mang các hãng hàng không Vietnam Airlines và VASCO vào trong game TFS. Đây là một bản mod hoàn toàn miễn phí! Mong các bạn sẽ luôn thích và ủng hộ ❤
 
-## Download
+
+<p align="center"><img src="https://i.postimg.cc/13KDF2M8/taixuong.png" alt="Tai xuong"></p>
 
 ### Tải về ngay
 
@@ -30,6 +31,6 @@ Các bạn vui lòng không upload lại hoặc tải ở các trang không uy t
 
 Chúc các bạn chơi vui vẻ!
 
-## Liên hệ hỗ trợ
+<p align="center"><img src="https://i.postimg.cc/SRpWC40z/lhht.png" alt="Ho tro"></p>
 
 hoyuuna.tfsvn@gmail.com
