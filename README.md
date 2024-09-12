@@ -28,6 +28,7 @@ Các bạn vui lòng không upload lại hoặc tải ở các trang không uy t
 4. App sẽ yêu cầu quyền Xuất hiện trên cùng thì các bạn đồng ý nhé
 5. Các bạn vào menu MODYOLO và bật Money Injection để bung tiền
 6. Tất cả các livery đều nằm trong máy bay RL72
+
 [Hướng dẫn tải chi tiết](https://www.youtube.com/watch?v=ds1Sbqg74EU)
 
 Chúc các bạn chơi vui vẻ!
