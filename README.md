@@ -2,7 +2,9 @@
 
 <h1 align="center">TFS MOD VN</h1>
 
-<p align="center">SWITCH TO ENGLISH</p>
+Tiếng Việt
+&nbsp;&nbsp; | &nbsp;&nbsp;
+<a href="https://github.com/Duhocsinh1/tfs-vnmod/blob/main/README(EN).md">English</a>
 
 <p align="center">Game gốc bởi Alex Petre (AX Gamesoft)</p>
 
