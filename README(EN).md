@@ -15,13 +15,13 @@ Hi everyone, I'm Thanh Dao, me and YouTuber Nhan Day together designed, tested a
 
 <p align="center"><img src="https://i.postimg.cc/ZKj4GL5G/download.png" alt="Download"></p>
 
-### Download now
+
 
 You can download at [Release](https://github.com/Duhocsinh1/tfs-vnmod/releases/) page
 
 Please do not re-upload or download from unreliable sites! Thank you very much!
 
-### Installation instructions
+**Installation instructions:**
 
 1. Download with the link above
 2. Run the .apk file after downloading
@@ -29,7 +29,7 @@ Please do not re-upload or download from unreliable sites! Thank you very much!
 4. The app will ask for the permission to Appear on top, please agree
 5. Go to the MODYOLO menu and enable Money Injection to get money
 6. All livery are in the RL72 aircraft
-### [Detailed instructions (Vietnamese)](https://www.youtube.com/watch?v=ds1Sbqg74EU)
+[Detailed instructions (Vietnamese)](https://www.youtube.com/watch?v=ds1Sbqg74EU)
 
 Have fun!
 
