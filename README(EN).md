@@ -4,7 +4,9 @@
 
 <p align="center">Original game by Alex Petre (AX Gamesoft)</p>
 
-[Tiếng Việt](https://github.com/Duhocsinh1/tfs-vnmod/releases/)
+English
+&nbsp;&nbsp; | &nbsp;&nbsp;
+<a href="https://github.com/Duhocsinh1/tfs-vnmod/blob/main/README.md">Tiếng Việt</a>
 
 <p align="center"><img src="https://i.postimg.cc/tgcgLN2q/intro.png" alt="Intro"></p>
 
