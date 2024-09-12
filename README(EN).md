@@ -1,10 +1,10 @@
 <p align="center"><img src="https://i.postimg.cc/0r1vf6tC/TURBOPROP-MOD-VIETNAM-logo.png" alt="TFS VN Logo"></p>
-
+  
 <h1 align="center">TFS MOD VN</h1>
 
-<p align="center">CHUYỂN SANG TIẾNG VIỆT</p>
-
 <p align="center">Original game by Alex Petre (AX Gamesoft)</p>
+
+Chuyển qua[Tiếng Việt](https://github.com/Duhocsinh1/tfs-vnmod/releases/)
 
 <p align="center"><img src="https://i.postimg.cc/tgcgLN2q/intro.png" alt="Intro"></p>
 
