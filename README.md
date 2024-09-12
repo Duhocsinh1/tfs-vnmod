@@ -15,13 +15,12 @@ Chào các bạn, mình là Thành Đào đây, mình cùng với bạn YouTuber
 
 <p align="center"><img src="https://i.postimg.cc/13KDF2M8/taixuong.png" alt="Tai xuong"></p>
 
-### Tải về ngay
 
 Các bạn có thể tải về ở trang [Release](https://github.com/Duhocsinh1/tfs-vnmod/releases/)
 
 Các bạn vui lòng không upload lại hoặc tải ở các trang không uy tín! Cảm ơn các bạn rất nhiều!
 
-### Hướng dẫn cài đặt
+**Hướng dẫn cài đặt:**
 
 1. Tải về với link bên trên
 2. Chạy file .apk sau khi đã tải xong
@@ -29,7 +28,7 @@ Các bạn vui lòng không upload lại hoặc tải ở các trang không uy t
 4. App sẽ yêu cầu quyền Xuất hiện trên cùng thì các bạn đồng ý nhé
 5. Các bạn vào menu MODYOLO và bật Money Injection để bung tiền
 6. Tất cả các livery đều nằm trong máy bay RL72
-### [Hướng dẫn tải chi tiết](https://www.youtube.com/watch?v=ds1Sbqg74EU)
+[Hướng dẫn tải chi tiết](https://www.youtube.com/watch?v=ds1Sbqg74EU)
 
 Chúc các bạn chơi vui vẻ!
 
