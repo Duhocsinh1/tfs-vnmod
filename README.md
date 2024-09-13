@@ -35,4 +35,5 @@ Chúc các bạn chơi vui vẻ!
 
 <p align="center"><img src="https://i.postimg.cc/SRpWC40z/lhht.png" alt="Ho tro"></p>
 
-hoyuuna.tfsvn@gmail.com
+<p align="center">Liên hệ qua email:</p>
+<p align="center">hoyuuna.tfsvn@gmail.com</p>
