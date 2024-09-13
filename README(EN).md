@@ -36,4 +36,5 @@ Have fun!
 
 <p align="center"><img src="https://i.postimg.cc/QMKDWGJD/contact.png" alt="Contact"></p>
 
-hoyuuna.tfsvn@gmail.com
+<p align="center">Contact via email:</p>
+<p align="center">hoyuuna.tfsvn@gmail.com</p>
