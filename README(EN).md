@@ -1,4 +1,3 @@
-<p align="center"><img src="https://i.postimg.cc/Nf4D6TrW/TFS-Mod-VN-Beta-6-cho-i-OS-1.png" alt="beta6en"></p>
 <p align="center"><img src="https://i.postimg.cc/0r1vf6tC/TURBOPROP-MOD-VIETNAM-logo.png" alt="TFS VN Logo"></p>
   
 <h1 align="center">TFS MOD VN</h1>
