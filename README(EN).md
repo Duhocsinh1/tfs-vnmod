@@ -17,7 +17,7 @@ Hi everyone, I'm Thanh Dao, me and YouTuber Nhan Day together designed, tested a
 
 
 
-You can download at [Release](https://github.com/Duhocsinh1/tfs-vnmod/releases/) page
+You can download at [Releases](https://github.com/Duhocsinh1/tfs-vnmod/releases/) page
 
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/downloads/Duhocsinh1/tfs-vnmod/total"></a>
