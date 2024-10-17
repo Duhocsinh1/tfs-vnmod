@@ -16,7 +16,7 @@ Chào các bạn, mình là Thành Đào đây, mình cùng với bạn YouTuber
 <p align="center"><img src="https://i.postimg.cc/13KDF2M8/taixuong.png" alt="Tai xuong"></p>
 
 
-Các bạn có thể tải về ở trang [Release](https://github.com/Duhocsinh1/tfs-vnmod/releases/)
+Các bạn có thể tải về ở trang [Releases](https://github.com/Duhocsinh1/tfs-vnmod/releases/)
 
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/downloads/Duhocsinh1/tfs-vnmod/total"></a>
