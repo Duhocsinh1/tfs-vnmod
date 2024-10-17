@@ -18,6 +18,9 @@ Chào các bạn, mình là Thành Đào đây, mình cùng với bạn YouTuber
 
 Các bạn có thể tải về ở trang [Release](https://github.com/Duhocsinh1/tfs-vnmod/releases/)
 
+<a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
+<a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/downloads/Duhocsinh1/tfs-vnmod/total"></a>
+
 Các bạn vui lòng không upload lại hoặc tải ở các trang không uy tín! Cảm ơn các bạn rất nhiều!
 
 **Hướng dẫn cài đặt:**
