@@ -21,7 +21,9 @@ Các bạn có thể tải về ở trang [Releases](https://github.com/Duhocsin
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/downloads/Duhocsinh1/tfs-vnmod/total"></a>
 
-Các bạn vui lòng không upload lại hoặc tải ở các trang không uy tín! Cảm ơn các bạn rất nhiều!
+> [!WARNING]
+> Vui lòng không tự ý chỉnh sửa, đăng lại, tải ở nơi khác. Đây là nơi tải uy tín duy nhất của MOD!
+> 
 
 **Hướng dẫn cài đặt:**
 
