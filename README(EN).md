@@ -22,7 +22,9 @@ You can download at [Releases](https://github.com/Duhocsinh1/tfs-vnmod/releases/
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/downloads/Duhocsinh1/tfs-vnmod/total"></a>
 
-Please do not re-upload or download from unreliable sites! Thank you very much!
+> [!WARNING]
+> Please do not edit, repost, or download elsewhere. This is the only reputable download site for MODs!
+> 
 
 **Installation instructions:**
 
