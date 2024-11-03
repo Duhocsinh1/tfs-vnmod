@@ -15,11 +15,10 @@ Chào các bạn, mình là Thành Đào đây, mình cùng với bạn YouTuber
 
 <p align="center"><img src="https://i.postimg.cc/13KDF2M8/taixuong.png" alt="Tai xuong"></p>
 
-**Chọn 1 trong 2 đường dẫn bên dưới để tải!**
+**Chọn đường dẫn bên dưới để tải!**
 
 
-<a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://i.postimg.cc/RVcvK3N4/vn-git.png"></a>
-<a href="https://drive.google.com/file/d/1roOOK-9_j4xaggiUIFM3mSViQkFUWs2D/view?usp=sharing"><img src="https://i.postimg.cc/QxLXFgNf/vn-drive.png"></a>
+<a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://i.postimg.cc/3NMnLv4C/T-I-XU-NG-transformed.png"></a>
 
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
 
