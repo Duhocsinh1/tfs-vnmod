@@ -15,10 +15,10 @@ Hi everyone, I'm Thanh Dao, me and YouTuber Nhan Day together designed, tested a
 
 <p align="center"><img src="https://i.postimg.cc/ZKj4GL5G/download.png" alt="Download"></p>
 
-**Choose 1 of the 2 links below to download!**
+**Click the button below to download**
 
-<a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://i.postimg.cc/05Kk5Xv6/en-git.png"></a>
-<a href="https://drive.google.com/file/d/1roOOK-9_j4xaggiUIFM3mSViQkFUWs2D/view?usp=sharing"><img src="https://i.postimg.cc/6qZtHqcV/en-drive.png"></a>
+<a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://i.postimg.cc/Hx8642xk/T-I-XU-NG-1-transformed.png"></a>
+
 
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
 
