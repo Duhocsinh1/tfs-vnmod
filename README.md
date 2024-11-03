@@ -24,7 +24,7 @@ Chào các bạn, mình là Thành Đào đây, mình cùng với bạn YouTuber
 
 
 > [!WARNING]
-> Vui lòng không tự ý chỉnh sửa, đăng lại, tải ở nơi khác. Đây là nơi tải uy tín duy nhất của MOD!
+> Vui lòng không tự ý chỉnh sửa, đăng lại, tải ở nơi khác, nhận của bản thân. Đây là nơi tải uy tín duy nhất của MOD!
 > 
 
 **Hướng dẫn cài đặt:**
