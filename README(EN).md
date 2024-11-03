@@ -23,7 +23,7 @@ Hi everyone, I'm Thanh Dao, me and YouTuber Nhan Day together designed, tested a
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
 
 > [!WARNING]
-> Please do not edit, repost, or download elsewhere. This is the only reputable download site for MODs!
+> Please do not edit, repost, or download elsewhere, do not claim as your own. This is the only reputable download site for this MOD!
 > 
 
 **Installation instructions:**
