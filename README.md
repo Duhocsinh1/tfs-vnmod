@@ -15,7 +15,7 @@ Chào các bạn, mình là Thành Đào đây, mình cùng với bạn YouTuber
 
 <p align="center"><img src="https://i.postimg.cc/13KDF2M8/taixuong.png" alt="Tai xuong"></p>
 
-**Chọn đường dẫn bên dưới để tải!**
+**Ấn nút bên dưới để tải**
 
 
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://i.postimg.cc/3NMnLv4C/T-I-XU-NG-transformed.png"></a>
