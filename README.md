@@ -6,12 +6,12 @@ Tiếng Việt
 
 <p align="center">Game gốc bởi Alex Petre (AX Gamesoft)</p>
 
-<p align="center"><img src="https://i.postimg.cc/L5vxN531/gioithieu.png" alt="Gioi thieu"></p>
+<p align="center"><img src="https://i.postimg.cc/DZ7qgx8Z/GI-I-THI-U.png" alt="Gioi thieu"></p>
 
 Chào các bạn, mình là Thành Đào đây, mình cùng với bạn YouTuber Nhân Đây cùng nhau design, test và tạo nên TFS Mod VN với niềm mong muốn mang các hãng hàng không Vietnam Airlines và VASCO vào trong game TFS. Đây là một bản mod hoàn toàn miễn phí! Mong các bạn sẽ luôn thích và ủng hộ ❤
 
 
-<p align="center"><img src="https://i.postimg.cc/13KDF2M8/taixuong.png" alt="Tai xuong"></p>
+<p align="center"><img src="https://i.postimg.cc/j2FPRKvw/T-I-XU-NG.png" alt="Tai xuong"></p>
 
 **Tải về từ trang** [***Releases***](https://github.com/Duhocsinh1/tfs-vnmod/releases)
 
@@ -35,7 +35,7 @@ Chào các bạn, mình là Thành Đào đây, mình cùng với bạn YouTuber
 
 Chúc các bạn chơi vui vẻ!
 
-<p align="center"><img src="https://i.postimg.cc/SRpWC40z/lhht.png" alt="Ho tro"></p>
+<p align="center"><img src="https://i.postimg.cc/rmg5Y5r9/LHHT.png" alt="Ho tro"></p>
 
 <p align="center">Liên hệ qua email:</p>
 <p align="center">hoyuuna.tfsvn@gmail.com</p>
