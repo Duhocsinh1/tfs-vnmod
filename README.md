@@ -8,14 +8,12 @@ Tiếng Việt
 
 <p align="center"><img src="https://i.postimg.cc/DZ7qgx8Z/GI-I-THI-U.png" alt="Gioi thieu"></p>
 
-Chào các bạn, mình là Thành Đào đây, mình cùng với bạn YouTuber Nhân Đây cùng nhau design, test và tạo nên TFS Mod VN với niềm mong muốn mang các hãng hàng không Vietnam Airlines và VASCO vào trong game TFS. Đây là một bản mod hoàn toàn miễn phí! Mong các bạn sẽ luôn thích và ủng hộ ❤
+Chào các bạn, mình là Hoyuuna đây, mình cùng với bạn YouTuber Nhân Đây cùng nhau design, test và tạo nên TFS Mod VN với niềm mong muốn mang các hãng hàng không Vietnam Airlines và VASCO vào trong game TFS. Đây là một bản mod hoàn toàn miễn phí! Mong các bạn sẽ luôn thích và ủng hộ ❤
 
 
 <p align="center"><img src="https://i.postimg.cc/j2FPRKvw/T-I-XU-NG.png" alt="Tai xuong"></p>
 
 **Tải về từ trang** [***Releases***](https://github.com/Duhocsinh1/tfs-vnmod/releases)
-
-<a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
 
 
 > [!WARNING]
