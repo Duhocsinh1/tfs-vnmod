@@ -1,6 +1,5 @@
-<p align="center"><img src="https://i.postimg.cc/0r1vf6tC/TURBOPROP-MOD-VIETNAM-logo.png" alt="TFS VN Logo"></p>
-  
-<h1 align="center">TFS MOD VN</h1>
+<p align="center"><img src="https://i.postimg.cc/fyDGhsp7/Th-m-ti-u-7.png" alt="TFS VN Logo"></p>
+
 
 <p align="center">Original game by Alex Petre (AX Gamesoft)</p>
 
@@ -15,9 +14,7 @@ Hi everyone, I'm Thanh Dao, me and YouTuber Nhan Day together designed, tested a
 
 <p align="center"><img src="https://i.postimg.cc/ZKj4GL5G/download.png" alt="Download"></p>
 
-**Click the button below to download**
-
-<a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://i.postimg.cc/Hx8642xk/T-I-XU-NG-1-transformed.png"></a>
+**Download from** [***Releases***](https://github.com/Duhocsinh1/tfs-vnmod/releases) **page**
 
 
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
