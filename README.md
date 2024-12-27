@@ -1,6 +1,4 @@
-<p align="center"><img src="https://i.postimg.cc/0r1vf6tC/TURBOPROP-MOD-VIETNAM-logo.png" alt="TFS VN Logo"></p>
-
-<h1 align="center">TFS MOD VN</h1>
+<p align="center"><img src="https://i.postimg.cc/fyDGhsp7/Th-m-ti-u-7.png" alt="TFS VN Logo"></p>
 
 Tiếng Việt
 &nbsp;&nbsp; | &nbsp;&nbsp;
@@ -15,10 +13,7 @@ Chào các bạn, mình là Thành Đào đây, mình cùng với bạn YouTuber
 
 <p align="center"><img src="https://i.postimg.cc/13KDF2M8/taixuong.png" alt="Tai xuong"></p>
 
-**Ấn nút bên dưới để tải**
-
-
-<a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://i.postimg.cc/3NMnLv4C/T-I-XU-NG-transformed.png"></a>
+**Tải về từ trang** [***Releases***](https://github.com/Duhocsinh1/tfs-vnmod/releases)
 
 <a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
 
