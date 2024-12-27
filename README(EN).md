@@ -9,15 +9,13 @@ English
 
 <p align="center"><img src="https://i.postimg.cc/prTKNyQM/INTRODUCTION.png" alt="Intro"></p>
 
-Hi everyone, I'm Thanh Dao, me and YouTuber Nhan Day together designed, tested and created TFS Mod VN with the desire to bring Vietnam Airlines and VASCO into the TFS game. This is a completely free mod! Hope you will always like and support ❤
+Hi everyone, Hoyuuna here, me and YouTuber Nhan Day together designed, tested and created TFS Mod VN with the desire to bring Vietnam Airlines and VASCO into the TFS game. This is a completely free mod! Hope you will always like and support ❤
 
 
 <p align="center"><img src="https://i.postimg.cc/mrYYCvZJ/DOWNLOAD.png" alt="Download"></p>
 
 **Download from** [***Releases***](https://github.com/Duhocsinh1/tfs-vnmod/releases) **page**
 
-
-<a href="https://github.com/Duhocsinh1/tfs-vnmod/releases"><img src="https://img.shields.io/github/v/release/Duhocsinh1/tfs-vnmod"></a>
 
 > [!WARNING]
 > Please do not edit, repost, or download elsewhere, do not claim as your own. This is the only reputable download site for this MOD!
