@@ -15,8 +15,6 @@ Chào các bạn, mình là Hoyuuna đây, mình cùng với bạn YouTuber Nhâ
 
 **Tải về từ trang** [***Releases***](https://github.com/Duhocsinh1/tfs-vnmod/releases)
 
-**Tải về tốc độ cao tại** [***đây***](https://tfsvn-download.neocities.org/)
-
 
 > [!WARNING]
 > Vui lòng không tự ý chỉnh sửa, đăng lại, tải ở nơi khác, nhận của bản thân. Đây là nơi tải uy tín duy nhất của MOD!
