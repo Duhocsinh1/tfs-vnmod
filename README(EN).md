@@ -16,8 +16,6 @@ Hi everyone, Hoyuuna here, me and YouTuber Nhan Day together designed, tested an
 
 **Download from** [***Releases***](https://github.com/Duhocsinh1/tfs-vnmod/releases) **page**
 
-**High speed download in** [***here***](https://tfsvn-download.neocities.org/)
-
 
 > [!WARNING]
 > Please do not edit, repost, or download elsewhere, do not claim as your own. This is the only reputable download site for this MOD!
